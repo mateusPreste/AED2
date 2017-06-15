@@ -14,12 +14,6 @@ Data* returnData(int cpf, char nomeIn[50], char nomeOut[50], int idade, float sa
 	return data;
 }
 
-struct sequential
-{
-	struct Block* init;
-};
-
-
 void initSequential(int size)
 {
 	SIZE_SEQ = size;
@@ -49,5 +43,4 @@ void diskSequencialSearch(FILE* file, int n)
 		}
 	}
 }
-
 */

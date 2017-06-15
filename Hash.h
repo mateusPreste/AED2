@@ -7,43 +7,37 @@
 #include <string.h>
 #include "Dados.h"
 
-// const int SIZE = 2000;
-#define SIZE 2000
+#define SIZE 5000
+#define SIZE_3 (int)(SIZE +(int) SIZE*0.3)
 
-typedef struct
-{
-	int cpf;
-	char nomeIn[50];
-	char nomeOut[50];
-	int idade;
-	float salario;
-	char valid;
+typedef struct {
+    int cpf;
+    char nomeIn[50];
+    char nomeOut[50];
+    int idade;
+    float salario;
+    char valid;
 } Line;
 
-typedef struct
-{
-	Line* Table[SIZE];
+typedef struct {
+    Line *Table[SIZE_3];
 } Hash;
 
-typedef struct Right
-{
-	struct Right* next;
-	Data* data;
-}Right;
+typedef struct Right {
+    struct Right *next;
+    Data *data;
+} Right;
 
 
-
-
-
-
-
-void initHash(Hash* hash);
+void initHash(Hash *hash);
 
 int hashFunction(int value);
 
-void showHash(Hash* hash, int pos);
+void showHash(Hash *hash, int pos);
 
-void insertHash(Hash* hash, Data* data, int key);
+void insertHash(Hash *hash, Data *data, int key);
+
+int searchHash(Hash *hash, int key);
 
 /*
 void insertHashCol(Hash* hash, Data* data, int key)

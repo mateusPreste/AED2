@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/AED2.dir/Dados.c.o CMakeFiles/AED2.dir/Tree.c.o CMakeFiles/AED2.dir/Hash.c.o CMakeFiles/AED2.dir/Main.c.o  -o AED2.exe -Wl,--out-implib,libAED2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

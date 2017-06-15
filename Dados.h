@@ -12,16 +12,6 @@ typedef struct{
 	float salario;
 } Data;
 
-typedef struct Block{
-	int cpf;
-	char nomeIn[50];
-	char nomeOut[50];
-	int idade;
-	float salario;
-
-	struct Block* left;
-	struct Block* right;
-}Block;
 
 Data* returnData(int cpf, char nomeIn[50], char nomeOut[50], int idade, float salario);
 
