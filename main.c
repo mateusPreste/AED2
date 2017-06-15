@@ -185,8 +185,9 @@ ftime(&endf);
     diff = (int) (1000.0 * (endf.time - start.time)
         + (endf.millitm - start.millitm));
 
-    printf("\nOperation took %u milliseconds\n", diff);
+    printf("\nOperation took %u millisecondfs\n", diff);
 
+      ftime(&start);
         for (int h = 0; h < 30; ++h) {
             begin = clock();
             //printf("\n\n\n\n\n less or equal than %d\n", sorted[2]);
@@ -203,7 +204,11 @@ ftime(&endf);
         }
 
         printf("Média dos tempos da busca(maior menor) na Arvore = %.16f \n", calcTime(chronus, SZ));
+        ftime(&endf);
+            diff = (int) (1000.0 * (endf.time - start.time)
+                + (endf.millitm - start.millitm));
 
+            printf("\nOperation took %u milldiseconds\n", diff);
 
         for (int p = 0; p < 30; ++p) {
             //printf("\n\n\n\n\n sequential\n");

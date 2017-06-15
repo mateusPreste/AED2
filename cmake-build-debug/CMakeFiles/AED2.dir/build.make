@@ -43,10 +43,10 @@ RM = /cygdrive/c/Users/mateu/.CLion2017.1/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/mateu/CLionProjects/AED2
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AED2.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/AED2.dir/flags.make
 
 CMakeFiles/AED2.dir/Dados.c.o: CMakeFiles/AED2.dir/flags.make
 CMakeFiles/AED2.dir/Dados.c.o: ../Dados.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/AED2.dir/Dados.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Dados.c.o   -c /cygdrive/c/Users/mateu/CLionProjects/AED2/Dados.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/AED2.dir/Dados.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Dados.c.o   -c /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Dados.c
 
 CMakeFiles/AED2.dir/Dados.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/AED2.dir/Dados.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/CLionProjects/AED2/Dados.c > CMakeFiles/AED2.dir/Dados.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Dados.c > CMakeFiles/AED2.dir/Dados.c.i
 
 CMakeFiles/AED2.dir/Dados.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/AED2.dir/Dados.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/CLionProjects/AED2/Dados.c -o CMakeFiles/AED2.dir/Dados.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Dados.c -o CMakeFiles/AED2.dir/Dados.c.s
 
 CMakeFiles/AED2.dir/Dados.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/AED2.dir/Dados.c.o.provides.build: CMakeFiles/AED2.dir/Dados.c.o
 
 CMakeFiles/AED2.dir/Tree.c.o: CMakeFiles/AED2.dir/flags.make
 CMakeFiles/AED2.dir/Tree.c.o: ../Tree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/AED2.dir/Tree.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Tree.c.o   -c /cygdrive/c/Users/mateu/CLionProjects/AED2/Tree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/AED2.dir/Tree.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Tree.c.o   -c /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Tree.c
 
 CMakeFiles/AED2.dir/Tree.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/AED2.dir/Tree.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/CLionProjects/AED2/Tree.c > CMakeFiles/AED2.dir/Tree.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Tree.c > CMakeFiles/AED2.dir/Tree.c.i
 
 CMakeFiles/AED2.dir/Tree.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/AED2.dir/Tree.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/CLionProjects/AED2/Tree.c -o CMakeFiles/AED2.dir/Tree.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Tree.c -o CMakeFiles/AED2.dir/Tree.c.s
 
 CMakeFiles/AED2.dir/Tree.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/AED2.dir/Tree.c.o.provides.build: CMakeFiles/AED2.dir/Tree.c.o
 
 CMakeFiles/AED2.dir/Hash.c.o: CMakeFiles/AED2.dir/flags.make
 CMakeFiles/AED2.dir/Hash.c.o: ../Hash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/AED2.dir/Hash.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Hash.c.o   -c /cygdrive/c/Users/mateu/CLionProjects/AED2/Hash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/AED2.dir/Hash.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Hash.c.o   -c /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Hash.c
 
 CMakeFiles/AED2.dir/Hash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/AED2.dir/Hash.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/CLionProjects/AED2/Hash.c > CMakeFiles/AED2.dir/Hash.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Hash.c > CMakeFiles/AED2.dir/Hash.c.i
 
 CMakeFiles/AED2.dir/Hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/AED2.dir/Hash.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/CLionProjects/AED2/Hash.c -o CMakeFiles/AED2.dir/Hash.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Hash.c -o CMakeFiles/AED2.dir/Hash.c.s
 
 CMakeFiles/AED2.dir/Hash.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/AED2.dir/Hash.c.o.provides.build: CMakeFiles/AED2.dir/Hash.c.o
 
 CMakeFiles/AED2.dir/Main.c.o: CMakeFiles/AED2.dir/flags.make
 CMakeFiles/AED2.dir/Main.c.o: ../Main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/AED2.dir/Main.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Main.c.o   -c /cygdrive/c/Users/mateu/CLionProjects/AED2/Main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/AED2.dir/Main.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/AED2.dir/Main.c.o   -c /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Main.c
 
 CMakeFiles/AED2.dir/Main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/AED2.dir/Main.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/CLionProjects/AED2/Main.c > CMakeFiles/AED2.dir/Main.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Main.c > CMakeFiles/AED2.dir/Main.c.i
 
 CMakeFiles/AED2.dir/Main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/AED2.dir/Main.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/CLionProjects/AED2/Main.c -o CMakeFiles/AED2.dir/Main.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Main.c -o CMakeFiles/AED2.dir/Main.c.s
 
 CMakeFiles/AED2.dir/Main.c.o.requires:
 
@@ -169,7 +169,7 @@ AED2.exe: CMakeFiles/AED2.dir/Hash.c.o
 AED2.exe: CMakeFiles/AED2.dir/Main.c.o
 AED2.exe: CMakeFiles/AED2.dir/build.make
 AED2.exe: CMakeFiles/AED2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable AED2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable AED2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AED2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/AED2.dir/clean:
 .PHONY : CMakeFiles/AED2.dir/clean
 
 CMakeFiles/AED2.dir/depend:
-	cd /cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/mateu/CLionProjects/AED2 /cygdrive/c/Users/mateu/CLionProjects/AED2 /cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug /cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug /cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/CMakeFiles/AED2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2 /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2 /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug /cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/CMakeFiles/AED2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/AED2.dir/depend
 

@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AED2">
-				<Option output="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/AED2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/AED2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED2"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED2"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AED2/fast">
-				<Option output="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/AED2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/AED2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,35 +73,35 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED2/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/CLionProjects/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Dados.c">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Dados.c">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Dados.h">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Dados.h">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Hash.c">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Hash.c">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Hash.h">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Hash.h">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Main.c">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Main.c">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Tree.c">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Tree.c">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/Tree.h">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/Tree.h">
 			<Option target="AED2"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mateu/CLionProjects/AED2/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/mateu/OneDrive/Documents/GitHub/AED2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
